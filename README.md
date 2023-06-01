@@ -1,4 +1,5 @@
-# Welcome to KBC- Kaun Banega Crorepati --> Level = Very Easy
+# Welcome to KBC- Kaun Banega Crorepati 
+# Level = Very Easy
 # OUTPUT:
 What is capital of Punjab
 
